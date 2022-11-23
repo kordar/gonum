@@ -2,8 +2,8 @@ package matrix
 
 import (
 	"fmt"
-	"gonum/src/common"
-	"gonum/src/matrix/det"
+	"github.com/kordar/gonum/src/common"
+	"github.com/kordar/gonum/src/matrix/det"
 	"log"
 )
 

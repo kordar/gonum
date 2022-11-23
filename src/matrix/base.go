@@ -1,7 +1,7 @@
 package matrix
 
 import (
-	"gonum/src/common"
+	"github.com/kordar/gonum/src/common"
 	"log"
 )
 

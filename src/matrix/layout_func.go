@@ -2,7 +2,7 @@ package matrix
 
 import (
 	"fmt"
-	"gonum/src/common"
+	"github.com/kordar/gonum/src/common"
 	"log"
 	"sort"
 )

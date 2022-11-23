@@ -1,7 +1,7 @@
 package matrix
 
 import (
-	"gonum/src/common"
+	"github.com/kordar/gonum/src/common"
 )
 
 // MultiplierRowPlusToRow 矩阵初等变换，p->系数, r->系数行, tr->目标行

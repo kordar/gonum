@@ -1,8 +1,8 @@
 package vector
 
 import (
-	"gonum/src/common"
-	"gonum/src/matrix"
+	"github.com/kordar/gonum/src/common"
+	"github.com/kordar/gonum/src/matrix"
 	"log"
 )
 

@@ -1,7 +1,7 @@
 package det
 
 import (
-	"gonum/src/common"
+	"github.com/kordar/gonum/src/common"
 )
 
 // IsZero 是否空行列式

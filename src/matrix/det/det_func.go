@@ -2,7 +2,7 @@ package det
 
 import (
 	"fmt"
-	"gonum/src/common"
+	"github.com/kordar/gonum/src/common"
 )
 
 // Save 通过行列保存数据

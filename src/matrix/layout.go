@@ -1,6 +1,6 @@
 package matrix
 
-import "gonum/src/common"
+import "github.com/kordar/gonum/src/common"
 
 // BlockMatrix 分块矩阵
 type BlockMatrix[K common.Key, V common.Value] struct {

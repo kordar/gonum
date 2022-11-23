@@ -1,6 +1,6 @@
 package vector
 
-import "gonum/src/common"
+import "github.com/kordar/gonum/src/common"
 
 // Similar 判断两个向量是否相似
 func Similar[K common.Key, V common.Value](a *BaseVector[K, V], b *BaseVector[K, V]) bool {

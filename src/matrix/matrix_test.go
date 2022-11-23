@@ -1,7 +1,7 @@
 package matrix
 
 import (
-	"gonum/src/matrix/det"
+	"github.com/kordar/gonum/src/matrix/det"
 	"log"
 	"testing"
 )

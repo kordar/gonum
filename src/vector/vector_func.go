@@ -2,8 +2,8 @@ package vector
 
 import (
 	"fmt"
-	"gonum/src/common"
-	"gonum/src/matrix"
+	"github.com/kordar/gonum/src/common"
+	"github.com/kordar/gonum/src/matrix"
 )
 
 func PrintAll[K common.Key, V common.Value](vec *Vector[K, V]) {

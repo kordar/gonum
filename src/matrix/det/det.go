@@ -1,7 +1,7 @@
 package det
 
 import (
-	"gonum/src/common"
+	"github.com/kordar/gonum/src/common"
 )
 
 type Determinant[K common.Key, V common.Value] struct {
